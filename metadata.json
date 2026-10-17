@@ -1,0 +1,6 @@
+{
+  "name": "BioLab AI 3D — Laboratorium Biologi Virtual Berbasis AI",
+  "description": "Laboratorium biologi virtual 3D interaktif untuk siswa SMA Kelas XI materi Sistem Peredaran Darah Manusia dengan eksplorasi 3D Three.js, investigasi data fisiologis, dan Socratic AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
